@@ -1,4 +1,4 @@
-# To-do list JS
+# To-do List JS
 
 Esse projeto foi realizado durante o bloco de fundamentos da trybe.
 
